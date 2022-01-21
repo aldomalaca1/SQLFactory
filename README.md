@@ -109,7 +109,9 @@ string sql = testObj.assemblyIntoSQL(testModel1, null);
 
 This function will return a string with the sql instruction of the table so that it can be used in a database in sqlite.
 
-And well, that would be it, I hope someone will serve for their projects.
+And well, that would be it, I hope someone find this library helful. 
+
+
   
   
   
